@@ -1,0 +1,31 @@
+# Genotype data and outputs (not shared)
+*.bed
+*.bim
+*.fam
+*.ped
+*.map
+*.raw
+*.gen
+*.genome
+*.eigenval
+*.eigenvec
+*.fst
+*.log
+*.nosex
+*.prune.in
+*.prune.out
+*.homozygousruns
+*.incidenceofcommonrunsperSNP
+inbreeding/
+*.csv
+*.txt
+*.png
+*.pdf
+
+# Executables
+*.exe
+
+# R session files
+.Rhistory
+.RData
+.Rproj.user/
